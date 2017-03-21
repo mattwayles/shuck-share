@@ -1,0 +1,117 @@
+.navbar {
+  width: 100%;
+  height: 70px;
+  background-color: #000026;
+}
+.brand {
+  height: 55px;
+}
+.navbar-nav > li{
+  padding-left:40px;
+  padding-right:40px;
+}
+.bg {
+  background-color: lightblue;
+  background-size: 100% auto;
+  position: absolute;
+}
+/*Banner*/
+.banner {
+  width: 100%;
+  height: 500px;
+}
+/*About Us*/
+.getinvolved-bg {
+  width: 100%;
+  height: 100%;
+}
+.getinvolved-top {
+  position: relative;
+  width: 85%;
+  height: 100%;
+  float: left;
+  margin: 5% 8% 0 8%;
+  padding: 6% 8% 0 8%;
+  background-color: rgba(235,235,235,.8);
+}
+.left {
+  width: 45%;
+  height: 100%;
+  float: left;
+  margin-top: 5%;
+}
+.img-volunteer {
+  position: relative;
+  width: 50%;
+  height: 100%;
+  margin-left: 2%;
+  float: right;
+  border-radius: 25px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #000026;
+}
+.getinvolved-bottom {
+  position: relative;
+  width: 85%;
+  height: 100%;
+  float: left;
+  margin: 0 8% 5% 8%;
+  background-color: rgba(235,235,235,.8);
+}
+.grid {
+  width: 80%;
+  height: 100%;
+  margin: 5% auto;
+}
+.row-county {
+  border-bottom: thick solid #323251;
+}
+.row-vol {
+  margin-top: 3%;
+}
+.offset1 {
+  margin-left: 5%;
+}
+p {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 24px;
+  color: #000026;
+}
+.vol-org {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 26px;
+  padding-top: 3%;
+}
+.vol-per {
+  font-family: 'Varela Round', sans-serif;
+  font-size: 20px;
+  margin-top: -15px;
+}
+.county {
+  padding-top: 4%;
+  font-family: 'Varela Round', sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 32px;
+  color: #323251;
+}
+.img-vol {
+  height: 150px;
+  width: 150px;
+  border-radius: 95%;
+}
+.img-vol-gr {
+  height: 165px;
+  width: 165px;
+  border-radius: 95%;
+}
+.img-purpose {
+  margin-top: 5%;
+  width: 100%;
+}
+/*Footer*/
+.my-footer {
+  width: 100%;
+  height: 100px;
+}
